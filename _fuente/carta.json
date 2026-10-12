@@ -1,0 +1,1428 @@
+{
+ "actualizado": "2026-10-11",
+ "fuente": "https://showspace.cl/coppelia",
+ "categorias": [
+  {
+   "id": "sandwiches",
+   "nombre": "Sándwiches",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": "De churrasco",
+     "items": [
+      {
+       "nombre": "Barros Luco",
+       "precio": 5850,
+       "descripcion": "180 g de churrasco y queso fundido, en pan de hamburguesa."
+      },
+      {
+       "nombre": "Barros Luco campestre",
+       "precio": 8490,
+       "descripcion": "180 g de churrasco, queso fundido, tomate de la zona, choclo y mayonesa artesanal, en pan de hamburguesa."
+      },
+      {
+       "nombre": "Chacarero",
+       "precio": 6800,
+       "descripcion": "Jugoso churrasco a la plancha con porotos verdes frescos, tomate, ají y nuestra mayonesa artesanal, un sándwich lleno de tradición y sabor chileno."
+      },
+      {
+       "nombre": "Churrasco brasileño",
+       "precio": 7490,
+       "descripcion": "Delicioso churrasco a la plancha con queso fundido cremoso y una generosa capa de palta fresca, creando una combinación perfecta de sabor y textura."
+      },
+      {
+       "nombre": "Churrasco italiano",
+       "precio": 6990,
+       "descripcion": "Churrasco, palta, tomate y mayonesa."
+      },
+      {
+       "nombre": "Churrasco palta mayo",
+       "precio": 6490,
+       "descripcion": "Tierna carne a la plancha con palta fresca y mayonesa suave, un clásico simple pero lleno de sabor."
+      },
+      {
+       "nombre": "Churrasco solo",
+       "precio": 5490,
+       "descripcion": "Churrasco de vacuno a la plancha."
+      },
+      {
+       "nombre": "Churrasco tomate mayo",
+       "precio": 5990,
+       "descripcion": "Churrasco, tomate y mayonesa."
+      },
+      {
+       "nombre": "Margarita",
+       "precio": 5600,
+       "descripcion": "Churrasco y huevo frito en pan de hamburguesa."
+      },
+      {
+       "nombre": "Sándwich Don Juan",
+       "precio": 7800,
+       "descripcion": "180 g de churrasco, cebolla caramelizada, queso fundido y huevo frito, en pan de hamburguesa."
+      },
+      {
+       "nombre": "Churrasco full",
+       "precio": 8990,
+       "descripcion": "Exquisito churrasco, acompañado de tomate fresco, palta, queso fundido y nuestra mayonesa casera, para un sándwich lleno de sabor y textura."
+      }
+     ]
+    },
+    {
+     "nombre": "De mechada",
+     "items": [
+      {
+       "nombre": "Mechada Luco",
+       "precio": 7000,
+       "descripcion": "Delicioso pan fresco relleno con jugosa carne mechada casera, cocinada lentamente para lograr una textura suave y sabrosa, acompañada de queso fundido que realza todo su sabor."
+      },
+      {
+       "nombre": "Mechada sola",
+       "precio": 5490
+      },
+      {
+       "nombre": "Mechada italiano",
+       "precio": 8990,
+       "descripcion": "Pan fresco relleno con tierna carne mechada casera, preparada con cocción lenta para un sabor inconfundible."
+      },
+      {
+       "nombre": "Mechada palta mayo",
+       "precio": 7990,
+       "descripcion": "Jugosa carne mechada casera en pan fresco, acompañada de palta cremosa y mayonesa suave."
+      },
+      {
+       "nombre": "Mechada Luco palta",
+       "precio": 9490,
+       "descripcion": "Exquisita carne mechada casera, cocinada lentamente para lograr suavidad y sabor, acompañada de queso fundido y palta fresca en pan crujiente."
+      },
+      {
+       "nombre": "Mechada Luco palta choclo",
+       "precio": 10490
+      },
+      {
+       "nombre": "Sándwich mechado Don Juan",
+       "precio": 8500,
+       "descripcion": "Nuestro clásico de la casa: pan fresco relleno con abundante carne mechada casera, jugosa y sabrosa, acompañada cebolla caramelizada huevo frito y queso fundido."
+      },
+      {
+       "nombre": "Mechada chacarero",
+       "precio": 7800
+      },
+      {
+       "nombre": "Mechada full",
+       "precio": 10490,
+       "descripcion": "Mechada, queso, palta, tomate y mayo."
+      }
+     ]
+    },
+    {
+     "nombre": "De lomo de cerdo",
+     "items": [
+      {
+       "nombre": "Lomo alemán",
+       "precio": 6500,
+       "descripcion": "Lomo de cerdo, chucrut casero, tomate fresco y mayonesa de la casa. Servido en pan hamburguesa."
+      },
+      {
+       "nombre": "Lomo campestre",
+       "precio": 6800,
+       "descripcion": "Jugoso lomo de cerdo acompañado de queso fundido, tomate fresco, choclo y nuestra mayonesa casera, una combinación rústica y llena de sabor."
+      },
+      {
+       "nombre": "Lomo italiano",
+       "precio": 6500,
+       "descripcion": "Lomo de cerdo, palta, tomate y mayonesa servida en pan hamburguesa."
+      },
+      {
+       "nombre": "Lomo margarita",
+       "precio": 5400,
+       "descripcion": "Lomo de cerdo jugoso acompañado de un huevo frito y mayonesa a elección, creando una combinación simple pero deliciosa."
+      },
+      {
+       "nombre": "Lomo palta mayo",
+       "precio": 5450,
+       "descripcion": "Lomo de cerdo, palta y mayonesa casera. Servido en pan hamburguesa."
+      },
+      {
+       "nombre": "Lomo tomate mayo",
+       "precio": 5000,
+       "descripcion": "Lomo de cerdo jugoso, tomate fresco y mayonesa de la casa, servido en pan hamburguesa."
+      }
+     ]
+    },
+    {
+     "nombre": "De ave",
+     "items": [
+      {
+       "nombre": "Ave italiana",
+       "precio": 6800,
+       "descripcion": "Pechuga de pollo a la plancha, acompañada de tomate fresco, palta cremosa y mayonesa artesanal, en una combinación inconfundible de sabor chileno."
+      },
+      {
+       "nombre": "Ave mayo",
+       "precio": 5500,
+       "descripcion": "Pechuga de pollo a la plancha y mayonesa todo en pan hamburguesa."
+      },
+      {
+       "nombre": "Ave palta mayo",
+       "precio": 6700,
+       "descripcion": "Pechuga de pollo a la plancha, palta y mayonesa."
+      },
+      {
+       "nombre": "Sándwich Señora Carmen",
+       "precio": 6800,
+       "descripcion": "Pechuga a la plancha con salsa de ajo, servida con lechuga y tomates frescos."
+      }
+     ]
+    },
+    {
+     "nombre": "Especiales y vegetariano",
+     "items": [
+      {
+       "nombre": "Sándwich vegetariano",
+       "precio": 5850,
+       "descripcion": "Champiñones, cebolla, choclo, tomate, salsa de ajo y lechuga.",
+       "vegetariano": true
+      },
+      {
+       "nombre": "Montañés",
+       "precio": 7950,
+       "descripcion": "Carne, tocino crujiente, queso fundido y champiñones salteados."
+      },
+      {
+       "nombre": "Mechada montañés",
+       "precio": 8800,
+       "descripcion": "Carne mechada, tocino crujiente, queso fundido y champiñones salteados."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "completos",
+   "nombre": "Completos",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Completo chucrut tomate",
+       "precio": 3550,
+       "descripcion": "Vienesa del Abuelo, chucrut de la casa, tomate de la zona y mayonesa artesanal."
+      },
+      {
+       "nombre": "Completo especial palta mayo",
+       "precio": 3800,
+       "descripcion": "Clásica vienesa acompañada de palta fresca y nuestra mayonesa artesanal, simple y delicioso."
+      },
+      {
+       "nombre": "Completo especial tomate",
+       "precio": 2500,
+       "descripcion": "Vienesa del Abuelo, tomate de la zona y mayonesa artesanal."
+      },
+      {
+       "nombre": "Completo full",
+       "precio": 4850,
+       "descripcion": "Sabrosa vienesa con chucrut hecho en casa, palta fresca, tomate picado y nuestra mayonesa casera, en una combinación que lo tiene todo."
+      },
+      {
+       "nombre": "Completo italiano",
+       "precio": 3950,
+       "descripcion": "Vienesa del Abuelo, palta cremosa, tomate de la zona y mayonesa casera."
+      },
+      {
+       "nombre": "Completo as italiano",
+       "precio": 4990,
+       "descripcion": "Churrasco, palta, tomate y mayonesa."
+      },
+      {
+       "nombre": "Completo mechado especial palta",
+       "precio": 6990
+      },
+      {
+       "nombre": "Completo mechado italiano",
+       "precio": 6990,
+       "descripcion": "Tierna carne mechada con tomate fresco, palta cremosa y mayonesa casera, una versión irresistible del clásico italiano."
+      },
+      {
+       "nombre": "Completo palta chucrut",
+       "precio": 3450,
+       "descripcion": "Vienesa acompañada de palta fresca y nuestro chucrut casero, todo coronado con mayonesa artesanal, para una experiencia de sabor única y tradicional."
+      },
+      {
+       "nombre": "Completo simple",
+       "precio": 2450,
+       "descripcion": "Vienesa del Abuelo, chucrut de la casa, mayonesa casera."
+      },
+      {
+       "nombre": "As full",
+       "precio": 5490,
+       "descripcion": "Jugoso churrasco en pan de completo, acompañado de tomate fresco, palta, chucrut casero y mayonesa artesanal, para un sándwich lleno de sabor y tradición."
+      },
+      {
+       "nombre": "Hot dog",
+       "precio": 2200
+      },
+      {
+       "nombre": "As especial palta mayo",
+       "precio": 4490
+      },
+      {
+       "nombre": "Completo mechado solo",
+       "precio": 5490
+      },
+      {
+       "nombre": "As Luco",
+       "precio": 5490
+      },
+      {
+       "nombre": "Completo mechado full",
+       "precio": 7490,
+       "descripcion": "Mechada, chucrut, palta, tomate y mayo."
+      },
+      {
+       "nombre": "Completo mechado queso",
+       "precio": 5490,
+       "descripcion": "Mechada y queso fundido."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hamburguesas",
+   "nombre": "Hamburguesas",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Hamburguesa sola",
+       "precio": 4000
+      },
+      {
+       "nombre": "Hamburguesa americana",
+       "precio": 6000,
+       "descripcion": "180 g de carne, cebolla, lechuga, tomate, pepinillo, queso, mostaza y ketchup."
+      },
+      {
+       "nombre": "La suprema",
+       "precio": 10000,
+       "descripcion": "Dos jugosas hamburguesas de res, perfectamente sazonadas, acompañadas de queso cheddar derretido, tocino crujiente, cebolla caramelizada al punto justo y un huevo frito con yema cremosa + papas fritas."
+      },
+      {
+       "nombre": "Hamburguesa italiana",
+       "precio": 7500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fajitas",
+   "nombre": "Fajitas",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Fajita de carne",
+       "precio": 7000,
+       "descripcion": "Deliciosa carne de vacuno sazonada con condimentos mexicanos, acompañada de cebolla, poroto negro, lechuga fresca, tomate, choclo y un toque especial de salsa de ajo, todo envuelto en una suave tortilla."
+      },
+      {
+       "nombre": "Fajita de pollo",
+       "precio": 7000,
+       "descripcion": "Deliciosa pechuga de pollo sazonada con condimentos mexicanos, acompañada de cebolla, poroto negro, lechuga fresca, tomate, choclo y un toque especial de salsa de ajo, todo envuelto en una suave tortilla."
+      },
+      {
+       "nombre": "Fajita camarón carne pollo",
+       "precio": 8500,
+       "descripcion": "Pollo, camarón, carne, cebolla caramelizada, poroto negro, lechuga, choclo, tomate y salsa de ajo."
+      },
+      {
+       "nombre": "Fajita pollo carne",
+       "precio": 8000,
+       "descripcion": "Pollo, cebolla, carne, poroto negro, choclo, tomate, lechuga y salsa de ajo."
+      },
+      {
+       "nombre": "Fajita pollo camarón",
+       "precio": 8500,
+       "descripcion": "Pollo, camarón, cebolla, tomate, lechuga, poroto negro, choclo y salsa de ajo."
+      },
+      {
+       "nombre": "Fajita vegetales",
+       "precio": 5500,
+       "descripcion": "Lechuga, cebolla, poroto negro, tomate, choclo y champiñón.",
+       "vegetariano": true
+      },
+      {
+       "nombre": "Fajita camarón",
+       "precio": 8500,
+       "descripcion": "Camarones salteados con cebolla y condimentos mexicanos, acompañados choclo, poroto tomate, lechuga fresca y salsa de ajo, todo envuelto en una suave tortilla."
+      },
+      {
+       "nombre": "Fajita carne camarón",
+       "precio": 7500
+      },
+      {
+       "nombre": "Fajita mechada",
+       "precio": 8000,
+       "descripcion": "Suave carne mechada con cebolla caramelizada, tomate fresco, porotos negros, choclo, lechuga y un toque de salsa de ajo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "para-compartir",
+   "nombre": "Para compartir",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Chorrillana",
+       "variantes": [
+        {
+         "etiqueta": "Para 2",
+         "precio": 16000
+        },
+        {
+         "etiqueta": "Para 4",
+         "precio": 28000
+        }
+       ],
+       "descripcion": "Carne mechada con cebolla caramelizada, longaniza, huevo frito y papas crujientes."
+      },
+      {
+       "nombre": "Pichanga",
+       "variantes": [
+        {
+         "etiqueta": "Para 2",
+         "precio": 18000
+        },
+        {
+         "etiqueta": "Para 4",
+         "precio": 28000
+        }
+       ],
+       "descripcion": "Cubos de asado a la olla, pollo, longaniza, vienesas, palta, tomate, queso, jamón, huevo, aceitunas y pickles sobre papas fritas."
+      },
+      {
+       "nombre": "Papas fritas",
+       "variantes": [
+        {
+         "etiqueta": "Chica",
+         "precio": 3000
+        },
+        {
+         "etiqueta": "Grande",
+         "precio": 5500
+        }
+       ]
+      },
+      {
+       "nombre": "Salchipapa grande",
+       "precio": 6200
+      },
+      {
+       "nombre": "Papas a la crema con pollo y champiñón",
+       "variantes": [
+        {
+         "etiqueta": "Chica",
+         "precio": 8500
+        },
+        {
+         "etiqueta": "Grande",
+         "precio": 17000
+        }
+       ],
+       "descripcion": "Papas a la crema con trozos de pollo y champiñones salteados. Porción grande para disfrutar como se debe."
+      },
+      {
+       "nombre": "Papas a la crema con pollo y camarón",
+       "variantes": [
+        {
+         "etiqueta": "Chica",
+         "precio": 9000
+        },
+        {
+         "etiqueta": "Grande",
+         "precio": 17000
+        }
+       ],
+       "descripcion": "Papas fritas, pollo a la plancha y camarones al ajillo, gratinadas con queso cheddar."
+      },
+      {
+       "nombre": "Papa mechada",
+       "variantes": [
+        {
+         "etiqueta": "Chica",
+         "precio": 8900
+        },
+        {
+         "etiqueta": "Grande",
+         "precio": 15000
+        }
+       ],
+       "descripcion": "Papas fritas con carne mechada y queso cheddar derretido."
+      },
+      {
+       "nombre": "Papas para llevar",
+       "variantes": [
+        {
+         "etiqueta": "Chica",
+         "precio": 1000
+        },
+        {
+         "etiqueta": "Mediana",
+         "precio": 2000
+        },
+        {
+         "etiqueta": "Grande",
+         "precio": 3000
+        }
+       ]
+      },
+      {
+       "nombre": "Papas a la crema con pollo y camarón familiar",
+       "precio": 34000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "almuerzos",
+   "nombre": "Almuerzos",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Consomé de vacuno",
+       "precio": 2500
+      },
+      {
+       "nombre": "Asado a la olla con agregado",
+       "precio": 16490,
+       "descripcion": "Asado a la olla tierno y jugoso, cocinado lentamente, acompañado a elección de puré de papas, papas mayo o arroz."
+      },
+      {
+       "nombre": "Cazuela de vacuno",
+       "precio": 10990
+      },
+      {
+       "nombre": "Pollo arvejado con agregado",
+       "precio": 9990,
+       "descripcion": "Agregado a elección: arroz, puré o papas mayo."
+      },
+      {
+       "nombre": "Pescado frito con agregado",
+       "precio": 10990,
+       "descripcion": "Agregado a elección: arroz, puré o papas mayo."
+      },
+      {
+       "nombre": "Asado a la olla con papas fritas",
+       "precio": 17000,
+       "descripcion": "Asado a la olla tierno y sabroso, acompañado de papas fritas naturales, doradas y crujientes."
+      },
+      {
+       "nombre": "Pollo a la plancha a lo pobre",
+       "precio": 12900
+      },
+      {
+       "nombre": "Costillar con agregado",
+       "precio": 12650,
+       "descripcion": "Costillar de cerdo con acompañamiento y ensalada."
+      },
+      {
+       "nombre": "Pescado frito con papas fritas",
+       "precio": 11990
+      },
+      {
+       "nombre": "Porotos con rienda",
+       "precio": 8990
+      },
+      {
+       "nombre": "Pollo a la plancha con agregado",
+       "precio": 10490
+      },
+      {
+       "nombre": "Pollo asado con agregado",
+       "precio": 9990
+      },
+      {
+       "nombre": "Colación + papas fritas",
+       "precio": 10900,
+       "descripcion": "Pollo asado, a la plancha o arvejado, con papas fritas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "platos",
+   "nombre": "Platos a la carta",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Hipocalórico",
+       "precio": 9500,
+       "descripcion": "Pechuga de pollo a la plancha, huevo duro, ensalada surtida y porotos negros."
+      },
+      {
+       "nombre": "Lomo a lo pobre",
+       "precio": 17800,
+       "descripcion": "Jugoso lomo liso de 250 g a la plancha, acompañado de papas fritas doradas, cebolla caramelizada, huevos fritos y un toque tradicional que lo convierte en un clásico irresistible de nuestra cocina chilena."
+      },
+      {
+       "nombre": "Lomo liso con agregado",
+       "precio": 15000,
+       "descripcion": "Lomo liso a la plancha con acompañamientos."
+      },
+      {
+       "nombre": "Salchipapa chica",
+       "precio": 5500
+      },
+      {
+       "nombre": "Menú niños",
+       "precio": 5500
+      },
+      {
+       "nombre": "Lomo con papas fritas",
+       "precio": 15500
+      },
+      {
+       "nombre": "Asado a la olla a lo pobre",
+       "precio": 17500
+      },
+      {
+       "nombre": "Pollo camarón con papas a la crema",
+       "precio": 9000
+      },
+      {
+       "nombre": "Costillar a lo pobre",
+       "precio": 15500,
+       "descripcion": "Costillar de cerdo al horno de leña, jugoso y lleno de sabor, acompañado de papas fritas doradas, cebolla caramelizada y huevo frito."
+      },
+      {
+       "nombre": "Pastel de choclo",
+       "precio": 12000,
+       "descripcion": "Suave crema de choclo sobre un sabroso pino de carne, pollo, huevo, aceitunas y pasas."
+      },
+      {
+       "nombre": "Costillar con papas fritas",
+       "precio": 14000,
+       "descripcion": "Costillar de cerdo cocinado a la leña, con papas fritas, ensalada fresca y pebre casero."
+      },
+      {
+       "nombre": "Palta reina",
+       "precio": 8000
+      },
+      {
+       "nombre": "Chanchito Monono",
+       "precio": 18500,
+       "descripcion": "Chuleta de cerdo, prieta, longaniza, arrollado de huaso, costillar de cerdo, papas cocidas, ensalada a la chilena, pebre, ají verde."
+      },
+      {
+       "nombre": "Pollo arvejado a lo pobre",
+       "precio": 12900
+      },
+      {
+       "nombre": "Pollo a la crema con agregado",
+       "precio": 9500
+      },
+      {
+       "nombre": "Ajiaco chileno",
+       "precio": 8990,
+       "descripcion": "Caldito bien sabroso hecho con carne del asado, papas en rodajas y cebolla frita, aliñado con los sabores típicos de casa."
+      },
+      {
+       "nombre": "Lomo de cerdo con agregado",
+       "precio": 9500,
+       "descripcion": "Tierno lomo de centro de cerdo (250 g), cocinado a la perfección para conservar toda su jugosidad."
+      },
+      {
+       "nombre": "Lomo de cerdo con papas fritas",
+       "precio": 10900,
+       "descripcion": "Jugoso lomo de centro de cerdo (250 g), preparado a la perfección para resaltar todo su sabor."
+      },
+      {
+       "nombre": "Lomo de cerdo a lo pobre",
+       "precio": 12900,
+       "descripcion": "Contundente plato preparado con 250 g de jugoso lomo de centro de cerdo, acompañado de crujientes papas fritas, cebolla caramelizada y huevos fritos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pescados-mariscos",
+   "nombre": "Pescados y mariscos",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Mariscal caliente",
+       "precio": 14000,
+       "descripcion": "Mezcla de mariscos frescos en su caldo con vino blanco, ajo y hierbas, servido humeante y coronado con cilantro."
+      },
+      {
+       "nombre": "Paila marina",
+       "precio": 16000,
+       "descripcion": "Clásico caldo chileno con mariscos y pescado fresco, cocidos en vino blanco y especias, servido bien caliente y coronado con cilantro."
+      },
+      {
+       "nombre": "Salmón a la plancha",
+       "precio": 14000
+      },
+      {
+       "nombre": "Salmón a lo pobre",
+       "precio": 17500
+      },
+      {
+       "nombre": "Chupe de jaiba",
+       "precio": 14000
+      },
+      {
+       "nombre": "Merluza a lo pobre",
+       "precio": 13000
+      },
+      {
+       "nombre": "Carapacho mayo",
+       "precio": 14000
+      },
+      {
+       "nombre": "Ceviche de salmón",
+       "precio": 13500
+      },
+      {
+       "nombre": "Salmón con papas fritas",
+       "precio": 15000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ensaladas",
+   "nombre": "Ensaladas",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Ensalada a la chilena",
+       "precio": 5800
+      },
+      {
+       "nombre": "Ensalada combinada doble",
+       "precio": 10800
+      },
+      {
+       "nombre": "Ensalada combinada",
+       "precio": 6800
+      },
+      {
+       "nombre": "Ensalada a la chilena doble",
+       "precio": 8900
+      },
+      {
+       "nombre": "Ensalada simple dos vegetales",
+       "precio": 5200,
+       "vegetariano": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "desayunos",
+   "nombre": "Desayunos",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Paila de huevo",
+       "precio": 4990,
+       "descripcion": "Tres huevos fritos o revueltos."
+      },
+      {
+       "nombre": "Tostadas con palta",
+       "precio": 3990
+      },
+      {
+       "nombre": "Desayuno campestre",
+       "precio": 11990,
+       "descripcion": "Huevos de campo, queso de Arauco, palta fresca, mantequilla, mermelada casera, tostadas crujientes y un café americano para un inicio de día lleno de sabor y frescura."
+      },
+      {
+       "nombre": "Paila queso",
+       "precio": 5490
+      },
+      {
+       "nombre": "Paila tocino queso",
+       "precio": 6490
+      },
+      {
+       "nombre": "Porción de tostadas",
+       "precio": 1990,
+       "descripcion": "Pan blanco."
+      },
+      {
+       "nombre": "Paila tocino",
+       "precio": 5000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "postres",
+   "nombre": "Postres",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Copa de helado simple",
+       "precio": 3800
+      },
+      {
+       "nombre": "Copa de helado doble con crema y salsa",
+       "precio": 5800
+      },
+      {
+       "nombre": "Delicias",
+       "precio": 5000
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "agregados",
+   "nombre": "Agregados",
+   "grupo": "comida",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Agregado arroz",
+       "precio": 2500
+      },
+      {
+       "nombre": "Agregado puré",
+       "precio": 2500
+      },
+      {
+       "nombre": "Agregado papas mayo",
+       "precio": 2500
+      },
+      {
+       "nombre": "Agregado sopaipilla (3)",
+       "precio": 800
+      },
+      {
+       "nombre": "Agregado camarón",
+       "precio": 4000
+      },
+      {
+       "nombre": "Agregado huevos fritos (2)",
+       "precio": 2000
+      },
+      {
+       "nombre": "Camarones a la crema",
+       "precio": 5800
+      },
+      {
+       "nombre": "Agregado queso fundido",
+       "precio": 1500
+      },
+      {
+       "nombre": "Agregado arroz fajita",
+       "precio": 500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cafeteria",
+   "nombre": "Cafetería",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Café americano",
+       "precio": 2600
+      },
+      {
+       "nombre": "Café con leche",
+       "precio": 2950
+      },
+      {
+       "nombre": "Café helado",
+       "precio": 3950
+      },
+      {
+       "nombre": "Café Nescafé",
+       "precio": 1600
+      },
+      {
+       "nombre": "Milo",
+       "precio": 2100
+      },
+      {
+       "nombre": "Té",
+       "precio": 1300
+      },
+      {
+       "nombre": "Té con leche",
+       "precio": 2300
+      },
+      {
+       "nombre": "Espresso doble",
+       "precio": 2800
+      },
+      {
+       "nombre": "Taza de leche",
+       "precio": 1800
+      },
+      {
+       "nombre": "Cappuccino con crema",
+       "precio": 3200
+      },
+      {
+       "nombre": "Malteada",
+       "precio": 3650
+      },
+      {
+       "nombre": "Milo con leche",
+       "precio": 2500
+      },
+      {
+       "nombre": "Banana split",
+       "precio": 5590
+      },
+      {
+       "nombre": "Sobre de café",
+       "precio": 500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jugos",
+   "nombre": "Jugos y limonadas",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Jugo natural de frutilla",
+       "precio": 3250,
+       "descripcion": "Jugo natural de fruta de temporada."
+      },
+      {
+       "nombre": "Jugo natural de piña",
+       "precio": 3250,
+       "descripcion": "Jugo natural de fruta de temporada."
+      },
+      {
+       "nombre": "Leche con plátano",
+       "precio": 2900
+      },
+      {
+       "nombre": "Mote con huesillo",
+       "precio": 2500
+      },
+      {
+       "nombre": "Watts Boca Ancha",
+       "precio": 1900
+      },
+      {
+       "nombre": "Jugo para llevar",
+       "precio": 2950
+      },
+      {
+       "nombre": "Limonada menta jengibre",
+       "precio": 3490
+      },
+      {
+       "nombre": "Jugo natural de arándano",
+       "precio": 3250
+      },
+      {
+       "nombre": "Jugo natural de berries",
+       "precio": 3250
+      },
+      {
+       "nombre": "Limonada frambuesa",
+       "precio": 3950
+      },
+      {
+       "nombre": "Jugo natural de mango",
+       "precio": 3950
+      },
+      {
+       "nombre": "Jugo natural de frambuesa",
+       "precio": 3250
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bebidas",
+   "nombre": "Bebidas",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Lata de bebida",
+       "precio": 1900,
+       "descripcion": "Coca-Cola, Coca-Cola Zero, Fanta, Sprite, Pepsi, Crush, Bilz, Pap, Canada Dry o Seven Up."
+      },
+      {
+       "nombre": "Agua Cachantun",
+       "precio": 1900,
+       "descripcion": "Con o sin gas."
+      },
+      {
+       "nombre": "Agua Vital",
+       "precio": 1900,
+       "descripcion": "Con o sin gas."
+      },
+      {
+       "nombre": "Red Bull",
+       "precio": 2000
+      },
+      {
+       "nombre": "Red Bull Yellow",
+       "precio": 2800
+      },
+      {
+       "nombre": "Limonada de coco",
+       "precio": 3990
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cervezas",
+   "nombre": "Cervezas",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": "Schop",
+     "items": [
+      {
+       "nombre": "Schop Escudo 500 cc",
+       "precio": 4500
+      },
+      {
+       "nombre": "Schop Heineken 500 cc",
+       "precio": 5400
+      },
+      {
+       "nombre": "Schop Kunstmann 500 cc",
+       "precio": 5990
+      },
+      {
+       "nombre": "Schop Austral Calafate 500 cc",
+       "precio": 6490
+      },
+      {
+       "nombre": "Schop Cristal 500 cc",
+       "precio": 4500
+      },
+      {
+       "nombre": "Schop Austral chico 350 cc",
+       "precio": 4900
+      },
+      {
+       "nombre": "Schop Escudo chico 350 cc",
+       "precio": 2990
+      },
+      {
+       "nombre": "Schop Kunstmann chico 350 cc",
+       "precio": 4990
+      },
+      {
+       "nombre": "Schop Heineken chico 350 cc",
+       "precio": 3990
+      },
+      {
+       "nombre": "Schop Cristal chico 350 cc",
+       "precio": 2990
+      }
+     ]
+    },
+    {
+     "nombre": "Fanschop",
+     "items": [
+      {
+       "nombre": "Fanschop Kunstmann 500 cc",
+       "precio": 5990
+      },
+      {
+       "nombre": "Fanschop Heineken 500 cc",
+       "precio": 5500
+      },
+      {
+       "nombre": "Fanschop Escudo 500 cc",
+       "precio": 4800
+      },
+      {
+       "nombre": "Fanschop Kunstmann chico 350 cc",
+       "precio": 4990
+      },
+      {
+       "nombre": "Fanschop Cristal 500 cc",
+       "precio": 4500
+      },
+      {
+       "nombre": "Fanschop Cristal 350 cc",
+       "precio": 2990
+      },
+      {
+       "nombre": "Fanschop Heineken chico 350 cc",
+       "precio": 3990
+      },
+      {
+       "nombre": "Fanschop Austral 500 cc",
+       "precio": 6490
+      },
+      {
+       "nombre": "Fanschop Austral 350 cc",
+       "precio": 4990
+      }
+     ]
+    },
+    {
+     "nombre": "Micheladas",
+     "items": [
+      {
+       "nombre": "Michelada Escudo 500 cc",
+       "precio": 5500
+      },
+      {
+       "nombre": "Michelada Heineken 500 cc",
+       "precio": 5900
+      },
+      {
+       "nombre": "Michelada Kunstmann 500 cc",
+       "precio": 6200
+      },
+      {
+       "nombre": "Michelada Austral 300 cc",
+       "precio": 4000
+      },
+      {
+       "nombre": "Michelada Austral 500 cc",
+       "precio": 6200
+      },
+      {
+       "nombre": "Michelada Cristal 500 cc",
+       "precio": 5500
+      },
+      {
+       "nombre": "Michelada Corona",
+       "precio": 4000
+      }
+     ]
+    },
+    {
+     "nombre": "Individuales",
+     "items": [
+      {
+       "nombre": "Austral Lager 300 cc",
+       "precio": 3500
+      },
+      {
+       "nombre": "Cerveza Corona",
+       "precio": 3500
+      },
+      {
+       "nombre": "Kunstmann 300 cc",
+       "precio": 3500
+      },
+      {
+       "nombre": "Cusqueña 300 cc",
+       "precio": 3500
+      }
+     ]
+    },
+    {
+     "nombre": "Sin alcohol y malta",
+     "items": [
+      {
+       "nombre": "Corona 0,0",
+       "precio": 3500
+      },
+      {
+       "nombre": "Malta con huevo 500 cc",
+       "precio": 4500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vinos",
+   "nombre": "Vinos y espumantes",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Misiones de Rengo Cabernet Sauvignon",
+       "precio": 7200,
+       "descripcion": "Botella de 750 cc."
+      },
+      {
+       "nombre": "120 3 Medallas",
+       "precio": 3500,
+       "descripcion": "Botella de 375 cc."
+      },
+      {
+       "nombre": "Espumante Brut 250 cc",
+       "precio": 3300
+      },
+      {
+       "nombre": "Espumante Valdivieso Brut",
+       "precio": 12500
+      },
+      {
+       "nombre": "Botellín 120 Santa Rita",
+       "precio": 2950
+      },
+      {
+       "nombre": "Jarra de vino varietal 500 cc",
+       "precio": 4500,
+       "descripcion": "Vino varietal en jarra de 500 cc."
+      },
+      {
+       "nombre": "Jarra de vino de la casa 500 cc",
+       "precio": 4000,
+       "descripcion": "Vino de la casa en jarra de 500 cc."
+      },
+      {
+       "nombre": "Copa de espumante",
+       "precio": 4500
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tragos",
+   "nombre": "Tragos",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Mojito cubano",
+       "precio": 5500
+      },
+      {
+       "nombre": "Mojito sabores",
+       "precio": 5800
+      },
+      {
+       "nombre": "Mojito sin alcohol",
+       "precio": 4800
+      },
+      {
+       "nombre": "Borgoña 500 cc",
+       "precio": 5000
+      },
+      {
+       "nombre": "Borgoña helado",
+       "precio": 6500
+      },
+      {
+       "nombre": "Pisco Sour nacional",
+       "precio": 4000
+      },
+      {
+       "nombre": "Aperol Spritz",
+       "precio": 6500
+      },
+      {
+       "nombre": "Ramazzotti Spritz",
+       "precio": 5500
+      },
+      {
+       "nombre": "Corto de manzanilla",
+       "precio": 2500
+      },
+      {
+       "nombre": "Baileys",
+       "precio": 6800
+      },
+      {
+       "nombre": "Ron Bacardí blanco",
+       "precio": 5750
+      },
+      {
+       "nombre": "Tropical Gin",
+       "precio": 6500,
+       "descripcion": "Gin, Red Bull Tropical, pulpa de maracuyá y hielo."
+      },
+      {
+       "nombre": "Johnnie Walker Red combinado",
+       "precio": 6000,
+       "descripcion": "Con hielo, bebida o Red Bull."
+      },
+      {
+       "nombre": "Mojito mango 1 litro",
+       "precio": 9000,
+       "descripcion": "Una refrescante combinación de mango natural, hojas de menta fresca, jugo de limón, un toque de ron, hielo y agua con gas."
+      },
+      {
+       "nombre": "Mojito frutilla 1 litro",
+       "precio": 9000,
+       "descripcion": "Una deliciosa mezcla de frutillas naturales, hojas de menta fresca, jugo de limón, un toque de ron, hielo y agua con gas."
+      },
+      {
+       "nombre": "Mojito piña 1 litro",
+       "precio": 9000,
+       "descripcion": "Una exquisita combinación de piña natural, hojas de menta fresca, jugo de limón, un toque de ron, hielo y agua con gas."
+      },
+      {
+       "nombre": "Mojito Jack Daniel's Apple 1 litro",
+       "precio": 12000,
+       "descripcion": "Una refrescante combinación de Jack Daniel’s Apple, jugo de limón recién exprimido, hojas de hierbabuena fresca, un toque de azúcar y agua con gas."
+      },
+      {
+       "nombre": "Mojito cubano 1 litro",
+       "precio": 9000,
+       "descripcion": "Refrescante combinación de ron, hierbabuena fresca, limón, azúcar y agua con gas, servida con abundante hielo."
+      },
+      {
+       "nombre": "Aperol de litro",
+       "precio": 12000,
+       "descripcion": "Refrescante y perfecto para compartir. La mezcla clásica de Aperol, espumante, agua con gas y hielo, con un delicado toque cítrico y un equilibrio ideal entre dulzor y amargor."
+      },
+      {
+       "nombre": "Ramazzotti de litro",
+       "precio": 12000,
+       "descripcion": "Un cóctel refrescante y de sabor intenso, preparado con Ramazzotti, bebida gaseosa, abundante hielo y un toque de cítricos."
+      },
+      {
+       "nombre": "Coco loco",
+       "precio": 6200,
+       "descripcion": "Un cóctel tropical, cremoso y refrescante, preparado con leche de coco, ron de coco y un toque de azúcar."
+      },
+      {
+       "nombre": "Coco loco litro",
+       "precio": 12000,
+       "descripcion": "Un cóctel tropical, cremoso y refrescante, preparado con leche de coco, ron de coco y un toque de azúcar."
+      },
+      {
+       "nombre": "Pisco Sour Catedral",
+       "precio": 7000,
+       "descripcion": "El clásico chileno por excelencia. Preparado con pisco nacional, jugo de limón fresco, azúcar y hielo, logrando un equilibrio perfecto entre acidez, dulzor y frescura."
+      },
+      {
+       "nombre": "Combinado Mistral 35°",
+       "precio": 5800
+      },
+      {
+       "nombre": "Mojito Jägermeister 1 litro",
+       "precio": 12000
+      },
+      {
+       "nombre": "Jägermeister a las rocas",
+       "precio": 6500
+      },
+      {
+       "nombre": "Mojito berries 1 litro",
+       "precio": 9000
+      },
+      {
+       "nombre": "Mojito de sabores sin alcohol",
+       "precio": 4000
+      },
+      {
+       "nombre": "Shot tequila",
+       "precio": 5400
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "destilados",
+   "nombre": "Destilados",
+   "grupo": "bebestibles",
+   "secciones": [
+    {
+     "nombre": null,
+     "items": [
+      {
+       "nombre": "Ballantine's Finest",
+       "precio": 7550
+      },
+      {
+       "nombre": "Jägermeister",
+       "precio": 10300
+      },
+      {
+       "nombre": "Johnnie Walker Red",
+       "precio": 7000
+      },
+      {
+       "nombre": "Mistral 35°",
+       "precio": 5800
+      },
+      {
+       "nombre": "Jack Daniel's Honey",
+       "precio": 7900
+      },
+      {
+       "nombre": "Ballantine's 7 años",
+       "precio": 8500
+      },
+      {
+       "nombre": "Jack Daniel's N.º 7",
+       "precio": 7900
+      },
+      {
+       "nombre": "Johnnie Walker Black",
+       "precio": 10500
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

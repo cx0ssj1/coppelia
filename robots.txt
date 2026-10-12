@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_backup/
+Disallow: /_fuente/
+
+Sitemap: https://www.coppeliarestobar.cl/sitemap.xml
