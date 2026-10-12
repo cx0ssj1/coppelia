@@ -1337,8 +1337,8 @@
     if (reserva && personas) lineas.push(`Personas: ${personas}`);
     if (pedido.length) {
       lineas.push('', reserva ? 'Quisiera dejar pedido:' : 'Pedido:');
-      pedido.forEach(x => lineas.push(`${x.cant} x ${nombreCompleto(x)}: ${clp(x.cant * x.precio)}`));
-      lineas.push(`Total estimado: ${clp(totales().t)}`);
+      pedido.forEach(x => lineas.push(`${x.cant} x ${nombreCompleto(x)}:` + '\n' + ` ${clp(x.precio)}` + ' c/u' + '\n' + ' Total: ' + `${clp(x.cant * x.precio)}` + '\n'));
+      lineas.push(`Total del pedido estimado: ${clp(totales().t)}`);
     }
     if (comentarios) lineas.push('', `Comentarios: ${comentarios}`);
     window.open(`https://wa.me/${WSP}?text=${encodeURIComponent(lineas.join('\n'))}`, '_blank', 'noopener');
